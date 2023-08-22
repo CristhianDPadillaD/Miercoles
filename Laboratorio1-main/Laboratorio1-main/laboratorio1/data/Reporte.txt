@@ -1,0 +1,18 @@
+Reporte Alumnos por semestre
+============================
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Cedula: 1
+Nombre: 2
+Apellido: 3
+Correo: 4
+Celular: 4
+Semestre: a
+- - - - - - - - - - - - - - - - - - - - -
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Cedula: asdf
+Nombre: asdf
+Apellido: sdaf
+Correo: asdf
+Celular: fd
+Semestre: a
+- - - - - - - - - - - - - - - - - - - - -
